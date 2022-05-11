@@ -74,7 +74,9 @@
    </tr>
    <tr> 
     <td colspan="6">II. SOLUCION DE CUESTIONARIO
-      <br>
+      <br>¿Por qué Git y GitHub son herramientas importantes para el curso? El uso de un repositorio en la nube nos permite trabajar en conjunto con personas usando ramas para que al finalizar un pryecto se pueda evaluar sin necesidad de comprometer el pryecto local 
+¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
+¿Qué son los entándares de codificación?
     </td>
    </tr>
     <tr>
