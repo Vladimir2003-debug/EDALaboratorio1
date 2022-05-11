@@ -1,6 +1,8 @@
 public class Test {
     public static void main(String[] args){
-        System.out.println("Bienvenido al curso");
+        Scanner sc = new Scanner(System.in);
+        String name = sc.nextLine();
+        System.out.println("Mi nombre es: " + name);
     }
 }
 
